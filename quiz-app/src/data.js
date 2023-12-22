@@ -1,0 +1,47 @@
+export const data = [
+    {
+        question: 'How many books did Elena bring from Ukraine?',
+        option1: '4',
+        option2: '5',
+        option3: '6',
+        option4: '7',
+        option5: '8',
+        answer: 3,
+    },
+    {
+        question: "What was the George's favourite music group few years ago?",
+        option1: 'The Doors',
+        option2: 'Linkin park',
+        option3: 'The Beatles',
+        option4: 'One Direction',
+        option5: 'Little Mix',
+        answer: 3,
+    },
+    {
+        question: 'If there is a fight between a hedgehog and a snake, who is more likely to win?',
+        option1: 'Hedgehog',
+        option2: 'Snake',
+        option3: 'All will die',
+        option4: 'They will not fight for sure',
+        option5: 'Forces of nature',
+        answer: 1,
+    },
+    {
+        question: 'What is the name of actress who played in Pedro Almodovar movies?',
+        option1: 'Penelope Cruz',
+        option2: 'Julia Roberts',
+        option3: 'Meryl Streep',
+        option4: 'Marilyn Monroe',
+        option5: 'Nicole Kidman',
+        answer: 1,
+    },
+    {
+        question: 'What is the color of the lamp on your desk?',
+        option1: 'Green',
+        option2: 'Purple',
+        option3: 'Dark blue',
+        option4: 'Orange',
+        option5: 'Black',
+        answer: 5,
+    }
+]
